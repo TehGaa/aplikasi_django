@@ -1,1 +1,1 @@
-web: gunicorn aplikasi_djangoo.wsgi --log-file -
+web: gunicorn aplikasidjangoo.wsgi --log-file -
