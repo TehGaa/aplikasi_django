@@ -1,1 +1,1 @@
-web: gunicorn aplikasidjangoo.wsgi --log-file -
+web: gunicorn tutor_pbp.wsgi --log-file -
